@@ -1,0 +1,11 @@
+gymnasium
+gymnasium[box2d]
+numpy
+matplotlib
+IPython
+random
+math
+torch
+os
+imageio
+PIL
